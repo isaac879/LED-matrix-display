@@ -3,4 +3,4 @@ This project used 3 8x8 LED matrix modules to displays scrolling text that loops
 
 Video available at: https://youtu.be/AugLQU87xkQ
 
-STL CAD file available at: 
+STL CAD file available at: https://www.thingiverse.com/thing:2808042
